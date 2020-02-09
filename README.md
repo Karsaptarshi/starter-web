@@ -22,3 +22,5 @@ This is the contribution section. Just for a developement purpose.
 
 Git Training 2020.
 
+Git checkout for the rebash commit purpose
+
