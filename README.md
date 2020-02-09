@@ -16,7 +16,7 @@ This is the purpose section.
 
 ## How to Contribute
 
-This is the contribution section.
+This is the contribution section. Just for a developement purpose.
 
 ##Copyright
 
