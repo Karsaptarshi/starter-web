@@ -8,6 +8,12 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+This is the Deployment section.
+
 ## Purpose
 
+This is the purpose section.
+
 ## How to Contribute
+
+This is the contribution section
