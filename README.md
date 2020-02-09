@@ -18,3 +18,7 @@ This is the purpose section.
 
 This is the contribution section.
 
+##Copyright
+
+Git Training 2020.
+
